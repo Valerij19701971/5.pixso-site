@@ -183,11 +183,11 @@ body {
 }
 
 /* 3) Scale SVGs to the box without distortion */
-/* .stats_left_img img,
+.stats_left_img img,
 .stats_right_img img {
    height: 100%;
    width: auto;
-} */
+}
 
 .stats_left_number {
    font-size: 48px;
